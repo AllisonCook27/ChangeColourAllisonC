@@ -30,14 +30,24 @@ namespace ChangeColourAllisonC
             //loop through each object and change the colour
             foreach (Control aControlObject in this.Controls)
             {
-
+                aControlObject.BackColor = Color.ForestGreen;
             }
 
         }
 
         private void lblChangeColour_Click(object sender, EventArgs e)
         {
+            //loop through each object and change the colour
+            foreach (Control aControlObject in this.Controls)
+            {
+                aControlObject.BackColor = Color.LightSeaGreen;
 
+                //but if the object is a label it's a different colour
+                if (aControlObject.GetType() == typeof(Label))
+                {
+                    aControlObject.BackColor = Color.Pink;
+                }
+            }
         }
     }
 }

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\bin\Debug\ChangeColourAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\bin\Debug\ChangeColourAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\bin\Debug\ChangeColourAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\obj\Debug\ChangeColourAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\obj\Debug\ChangeColourAllisonC.frmChangeColour.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\obj\Debug\ChangeColourAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\obj\Debug\ChangeColourAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\obj\Debug\ChangeColourAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\ChangeColourAllisonC\ChangeColourAllisonC\obj\Debug\ChangeColourAllisonC.pdb
